@@ -1,0 +1,50 @@
+VERSION V5 - CORRECTIONS TEXTE ET RUBRIQUES
+
+Modifications :
+- "débit sur liste" remplacé par "coupe sur mesure"
+- "sciage détaillé" remplacé par "sciage au détail"
+- aucune mention de traitement
+- aucune mention de rabotage
+- ajout d'une rubrique "Bois de chauffage"
+- ajout du bois de chauffage en 30 cm et 50 cm
+- remise des photos dans les rubriques :
+  - bois de charpente
+  - terrasse bois
+  - bardage bois
+
+Mise en ligne sur Netlify :
+1. Déposez ce ZIP dans la zone de dépôt Netlify.
+2. Attendez la publication.
+3. Rechargez le site.
+
+
+VERSION V6 :
+- ajout du traitement du bois
+- ajout du rabotage
+- ajout dans le texte d'accueil
+- ajout dans les prestations
+- ajout dans le formulaire de demande de devis
+
+
+VERSION V7 :
+- correction des images des rubriques avec les images fournies :
+  - bois de charpente
+  - terrasse bois
+  - bardage bois
+  - bois de chauffage
+- photo d'accueil avec camion nettoyée, sans descriptif sur l'image.
+
+
+VERSION V8 :
+- photo d'accueil remplacée par la photo validée avec le camion et la scierie
+- aucune écriture sur la photo d'accueil
+- les photos des rubriques sont conservées
+
+
+VERSION V9 :
+- ajout d'une rubrique Quincaillerie bois
+- ajout des sabots, équerres, connecteurs, visserie terrasse, visserie charpente et fixations bois
+- ajout d'une étiquette "Nouveau"
+- ajout d'une image pour la quincaillerie
+- ajout d'une image pour traitement & rabotage
+- précision traitement classe 2, classe 3 et classe 4 par autoclave marron sur demande
